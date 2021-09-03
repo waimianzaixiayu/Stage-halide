@@ -1,4 +1,7 @@
-﻿################# line 175 state ########################
+# 源代码：https://github.com/OAID/AutoKernel/blob/main/AutoSearch/src/adams2019/AutoSchedule.cpp#L175 #
+#################        line 175 state           ########################
+################# 以下为改写的Python代码 烦请不吝赐教 ########################
+
 class State(object):
 
     def _initialize_instance_fields(self):
