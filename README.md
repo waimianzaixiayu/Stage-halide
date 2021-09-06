@@ -8,3 +8,4 @@
 
 ## 代码改写 c++ -> Python
 ### 1. [State结构体的改写（第一版 有错误）](https://github.com/waimianzaixiayu/Stage-halide/blob/main/func1.py)
+### 2. [optimal_schedule_pass的改写(AutoSchedule.cpp)](https://github.com/waimianzaixiayu/Stage-halide/commit/ab0c4834885f92674383f16c2313f6d6db4afe7e)
